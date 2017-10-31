@@ -1,3 +1,3 @@
 # hello_world
-My name is sumedh. Im doing engeineering in Internation Institute of infomation technology. 
+My name is sumedh. Im doing engeineering in International Institute of infomation technology. And 
 I dont like coding...
